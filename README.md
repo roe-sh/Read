@@ -1,8 +1,7 @@
 # Hi, I'm Rahaf Atef 👋
 
-Welcome to my GitHub profile! I'm a **Full Stack Web Developer** from **Irbid, Jordan**. I have hands-on experience in modern web technologies, including **.NET**, **ASP.NET Core**, **Angular**, and **React**. I am passionate about building scalable, robust applications and am constantly learning and evolving my skillset.
+Welcome to my GitHub profile! I'm a **Full Stack Web Developer** . I have hands-on experience in modern web technologies, including **.NET**, **ASP.NET Core**, **Angular**, and **React**. I am passionate about building scalable, robust applications and am constantly learning and evolving my skillset.
 
-## 📄 Career Objective
 
 Full-Stack Developer with comprehensive training from **Orange Coding Academy**.
   - Intensive full-stack web development course in collaboration with **Simplon.co** and **Princess Sumaya University for Technology (PSUT)**.
@@ -54,8 +53,7 @@ I am passionate about programming, problem-solving, and building full-stack solu
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahaf%20Atef-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahaf-atef)
-[![Twitter](https://img.shields.io/badge/Twitter-@rahafatef-blue?style=for-the-badge&logo=twitter)](https://twitter.com/rahafatef)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahaf%20Atef-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/rahaf-atef](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFADi0Slc5xugAAAZN-irHYhQ1vbmiRaXnq45r3N97_Mz1TT7r3qRJTf4VYecfGm8PWUT2UTc6WgcBaRSQ5adNbDd33P72NYCMXwh_eSss-lV4rWoGvIahJZXmbr2dkzttgz4Q=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frahaf-atef-8672092a9%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dios_app))
 
 ---
 
