@@ -1,16 +1,11 @@
-# Hi, I'm Rahaf Atef 👋
+# Hi there 👋
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** from **Irbid, Jordan**. With hands-on experience in modern web technologies like **.NET**, **ASP.NET Core**, **Angular**, and **React**, I love building scalable, robust applications and continuously expanding my skillset.
+Welcome to my GitHub profile! I'm a **Full Stack Web Developer** I use web technologies like **.NET**, **ASP.NET Core**, **Angular**, and **React**, I love building scalable, robust applications and continuously expanding my skillset.
 ## Play the Game!
 
 Check out my fun memory game on CodePen:
 
 [Play the Game! 🎮](https://codepen.io/roe-sh/pen/GgKJJWw)
-
-### 🚀 About Me:
-I’m a **Full-Stack Developer** with comprehensive training from the **Orange Coding Academy**. I’ve successfully completed an intensive **Full Stack Web Development Bootcamp** in collaboration with **Simplon.co** and **Princess Sumaya University for Technology (PSUT)**.
-
-I’m passionate about problem-solving and delivering full-stack solutions that make a real impact. I’ve developed over 10 projects, each showcasing my ability to create functional, scalable, and well-architected applications. I am excited to leverage my skills and passion to contribute to your team or project!
 
 ---
 
@@ -44,16 +39,6 @@ I’m passionate about problem-solving and delivering full-stack solutions that 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
-
----
-
-## 🤝 Soft Skills
-
-- **Fast Self-Learner** – I love picking up new technologies and solving problems.
-- **Team Collaboration** – I thrive in collaborative environments.
-- **Strong Communication** – Able to clearly explain complex ideas to diverse audiences.
-- **Problem-Solving & Critical Thinking** – I love tackling challenges with creative solutions.
-- **Attention to Detail & Time Management** – Ensuring high-quality delivery within deadlines.
 
 ---
 
