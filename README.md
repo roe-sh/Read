@@ -1,6 +1,11 @@
 # Hi, I'm Rahaf Atef 👋
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** from **Irbid, Jordan**. With hands-on experience in modern web technologies like **.NET**, **ASP.NET Core**, **Angular**, and **React**, I love building scalable, robust applications and continuously expanding my skillset.
+## Play the Game!
+
+Check out my fun memory game on CodePen:
+
+[Play the Game! 🎮](https://codepen.io/roe-sh/pen/GgKJJWw)
 
 ### 🚀 About Me:
 I’m a **Full-Stack Developer** with comprehensive training from the **Orange Coding Academy**. I’ve successfully completed an intensive **Full Stack Web Development Bootcamp** in collaboration with **Simplon.co** and **Princess Sumaya University for Technology (PSUT)**.
