@@ -79,7 +79,7 @@ A platform for mothers and infants featuring user authentication and real-time h
 
 - **Full Stack Web Development Bootcamp** – Orange Coding Academy (May 2024 – December 2024)
   - Intensive full-stack web development course in collaboration with **Simplon.co** and **Princess Sumaya University for Technology (PSUT)**.
-  
+- **BAU**  -(october 2021 – April 2024)
 
 ---
 
