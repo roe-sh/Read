@@ -1,11 +1,7 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm a **Full Stack Web Developer** I use web technologies like **.NET**, **ASP.NET Core**, **Angular**, and **React**, I love building scalable, robust applications and continuously expanding my skillset.
-## Play the Game!
+ I'm a **Full Stack Web Developer** I use web technologies like **.NET**, **ASP.NET Core**, **Angular**, and **React**, I love building scalable, robust applications and continuously expanding my skillset.
 
-Check out my fun memory game on CodePen:
-
-[Play the Game! 🎮](https://codepen.io/roe-sh/pen/GgKJJWw)
 
 ---
 
@@ -92,6 +88,11 @@ A platform for **mothers and infants** featuring **user authentication** and **r
 ## 🚀 Profile View Count
 
 ![Views](https://komarev.com/ghpvc/?username=roe-sh)
+## Play the Game!
+
+Check out my fun memory game on CodePen:
+
+[Play the Game! 🎮](https://codepen.io/roe-sh/pen/GgKJJWw)
 
 ---
 
