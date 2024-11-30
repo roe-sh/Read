@@ -53,7 +53,7 @@ I am passionate about programming, problem-solving, and building full-stack solu
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahaf%20Atef-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/rahaf-atef](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFADi0Slc5xugAAAZN-irHYhQ1vbmiRaXnq45r3N97_Mz1TT7r3qRJTf4VYecfGm8PWUT2UTc6WgcBaRSQ5adNbDd33P72NYCMXwh_eSss-lV4rWoGvIahJZXmbr2dkzttgz4Q=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frahaf-atef-8672092a9%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dios_app))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Rahaf%20Atef-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/rahaf-atef](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFADi0Slc5xugAAAZN-irHYhQ1vbmiRaXnq45r3N97_Mz1TT7r3qRJTf4VYecfGm8PWUT2UTc6WgcBaRSQ5adNbDd33P72NYCMXwh_eSss-lV4rWoGvIahJZXmbr2dkzttgz4Q=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frahaf-atef-8672092a9%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dios_app)](https://www.linkedin.com/in/rahaf-atef-8672092a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 
 ---
 
