@@ -47,7 +47,6 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahaf%20Atef-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahaf-atef-8672092a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Twitter](https://img.shields.io/badge/Twitter-@rahafatef-blue?style=for-the-badge&logo=twitter)](https://twitter.com/rahafatef)
 
 ---
 
