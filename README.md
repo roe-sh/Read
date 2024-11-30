@@ -88,7 +88,7 @@ A platform for **mothers and infants** featuring **user authentication** and **r
 - **Full Stack Web Development Bootcamp** – Orange Coding Academy (May 2024 – December 2024)
   - Intensive full-stack web development course in collaboration with **Simplon.co** and **Princess Sumaya University for Technology (PSUT)**.
   
-- **BA in Midwifery Nursing** – **Al Balqa Applied University**, Irbid, Jordan (October 2021 – April 2024)
+- **BAU ** – **Al Balqa Applied University**, Irbid, Jordan (October 2021 – April 2024)
 
 ---
 
