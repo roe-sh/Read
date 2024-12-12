@@ -1,9 +1,6 @@
 # Hi there 👋
 
- I'm a **Full Stack Web Developer** I use web technologies like **.NET**, **ASP.NET Core**, **Angular**, and **React**, I love building scalable, robust applications and continuously expanding my skillset.
-
-### 😎 Let's Collaborate!
-
+ I'm a **Full Stack Web Developer**
 If you are looking to collaborate on a project, contribute to open-source, or simply discuss tech ideas, feel free to reach out! I’m always excited to connect with like-minded developers and professionals.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahaf%20Atef-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahaf-atef-8672092a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
@@ -23,15 +20,12 @@ If you are looking to collaborate on a project, contribute to open-source, or si
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=asp-net-core)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
 
 
 ---
 
-## 📝 Featured Projects
+
 
 Here are some of the projects I’ve worked on that demonstrate my skills in full-stack web development:
 
