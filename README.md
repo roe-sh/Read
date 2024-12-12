@@ -25,19 +25,12 @@ If you are looking to collaborate on a project, contribute to open-source, or si
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
 
-### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
-
----
-
-## 📈 GitHub Stats
-
-![Rahaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roe-sh&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ---
 
