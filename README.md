@@ -18,13 +18,10 @@ If you are looking to collaborate on a project, contribute to open-source, or si
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=asp-net)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=asp-net-core)
-
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code)
@@ -55,7 +52,6 @@ A platform for **mothers and infants** featuring **user authentication** and **r
 
 
 ![Views](https://komarev.com/ghpvc/?username=roe-sh)
-Check out my fun memory game on CodePen:
 
 [Play the Game! 🎮](https://codepen.io/roe-sh/pen/GgKJJWw)
 
