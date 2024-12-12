@@ -2,12 +2,15 @@
 
  I'm a **Full Stack Web Developer** I use web technologies like **.NET**, **ASP.NET Core**, **Angular**, and **React**, I love building scalable, robust applications and continuously expanding my skillset.
 
+### 😎 Let's Collaborate!
+
+If you are looking to collaborate on a project, contribute to open-source, or simply discuss tech ideas, feel free to reach out! I’m always excited to connect with like-minded developers and professionals.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahaf%20Atef-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahaf-atef-8672092a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
 
 ---
 
-## 🛠️ Tech Stack
-
-### Front-End
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
@@ -16,16 +19,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
-### Back-End
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=asp-net)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=asp-net-core)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django)
 
-### Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -33,20 +31,13 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
+
 
 ---
 
 ## 📈 GitHub Stats
 
 ![Rahaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roe-sh&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahaf%20Atef-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahaf-atef-8672092a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
@@ -68,34 +59,10 @@ A platform for **mothers and infants** featuring **user authentication** and **r
 
 ---
 
-## 🏫 Education
 
-- **Full Stack Web Development Bootcamp** – Orange Coding Academy (May 2024 – December 2024)
-  - Intensive full-stack web development course in collaboration with **Simplon.co** and **Princess Sumaya University for Technology (PSUT)**.
-  
-- **BAU ** – **Al Balqa Applied University**, Irbid, Jordan (October 2021 – April 2024)
-
----
-
-## 📧 Contact Me
-
-- **Email**: ruhufatefruhuf@gmail.com
-- **Phone**: +962 772392386
-
----
-
-## 🚀 Profile View Count
 
 ![Views](https://komarev.com/ghpvc/?username=roe-sh)
-## Play the Game!
-
 Check out my fun memory game on CodePen:
 
 [Play the Game! 🎮](https://codepen.io/roe-sh/pen/GgKJJWw)
-
----
-
-### 😎 Let's Collaborate!
-
-If you are looking to collaborate on a project, contribute to open-source, or simply discuss tech ideas, feel free to reach out! I’m always excited to connect with like-minded developers and professionals.
 
